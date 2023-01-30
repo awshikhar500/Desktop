@@ -6,4 +6,4 @@ print("area and circumference calculate")
 print(f'{d=}')
 print(f'{r=}')
 print(f'area{a=}')
-print(f'circumference{c=}')
+print(f'circumference{c=}')1
